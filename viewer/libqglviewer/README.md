@@ -1,12 +1,12 @@
 # libQGLviewer
 
-## 설치
+## Development Environment
 
-1. [github]: https://github.com/GillesDebunne/libQGLViewer
+github : [link](https://github.com/GillesDebunne/libQGLViewer )
 
-2. [홈페이지]: http://libqglviewer.com/
+homepage : [link](http://libqglviewer.com/)
 
-3. 상업용 버전과 opengsource 버전이 존재
+1. commercial 버전과 opengsource 버전이 존재
 
 ### windows
 

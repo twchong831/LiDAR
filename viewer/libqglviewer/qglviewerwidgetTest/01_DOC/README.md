@@ -6,7 +6,7 @@
 
 
 ## Linux - Ubuntu
-
+<img src="viewer/libqglviewer/qglviewerwidgetTest/01_DOC/image/ubuntu_activate.png">
 ![active result](.\image\ubuntu_activate.png)
 
 

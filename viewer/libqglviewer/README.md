@@ -46,6 +46,5 @@ mingw32-make
   - Qt/5.12.xx/mingw83_64/plugin/designer
 
 <img src="https://github.com/twchong831/LiDAR/blob/d7b262881f562b08910f40694e4b4d4e21ac081a/viewer/libqglviewer/image/libqglviewer/widget_01.PNG" width="500"> 
-![위젯 입력](image/libqglviewer/widget_01.PNG)
 
 - Qt creator에서는 출력되지 않지만, Qt designer에서는 출력되는 것을 확인
